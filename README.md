@@ -23,7 +23,7 @@ If you like, you can see the project funcionality in http://test-mini-crm.heroku
 - Please make sure that you run the project with http
 - For login use 
     - email -> admin@admin.com
-    - passoword -> password
+    - password -> password
 
 ## Clone or download
 
@@ -35,7 +35,7 @@ To clone or download please note:
 - Run php artisan migrate --seed. (run seeders for create a admin user, fake companies and employees)
 - Admin user credentials: 
     - email -> admin@admin.com
-    - passoword -> password
+    - password -> password
 
 ## Contact.
 
