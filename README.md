@@ -32,7 +32,7 @@ To clone or download please note:
 - Make a .env file (See .env.example file ), and configure your database features
 - Run composer install.
 - Run npm install && npm run dev
-- Run php artisan migrate --seed. (run seeders for create a admin user, fake companies and      employees)
+- Run php artisan migrate --seed. (run seeders for create a admin user, fake companies and employees)
 - Admin user credentials: 
     - email -> admin@admin.com
     - passoword -> password
